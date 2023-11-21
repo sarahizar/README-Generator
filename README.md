@@ -12,9 +12,9 @@
 - Usage
 - License
 - Technology
-- Tests
 - Contributions
 - Questions
+- Link
 
 ## Installation
 To install the application, run the following command:
@@ -22,25 +22,23 @@ To install the application, run the following command:
 *npm install (remove the * before running the command)
 
 ## Usage 
-To run the application, use the following command:
+To run the application, use the following command in your terminal:
 node index.js
 
 ## License
-This project is licensed under the MIT License.
+This project has no license.
 
 ## Technology
 -Node.js
 -VS Code
 
-## Tests    
-npm test 
-
 ## Contributions
 Starter code pulled from The Coding Boot Camp 
+Source: https://github.com/coding-boot-camp/potential-enigma
 
 ## Screen Recording
 A QR Code to watch the tutorial video:
-![My Image](qr-code(1).png)
+![My Image](/qr-code%20(1).png)
 
 Or you can use the following embed code:
 <iframe src="https://drive.google.com/file/d/1i5qDbu7sEywc0G2zRSEThtCU-Gos8U2v/preview" width="640" height="480"></iframe>
