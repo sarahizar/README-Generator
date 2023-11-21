@@ -1,7 +1,7 @@
 # Professional ReadMe Generator
  
 ## Description
-This project generates a fully functioning README
+This project creates README's
 
 ## Table of Contents
 Description
@@ -25,23 +25,23 @@ Questions
 - [Questions](#github-username)
 
 ## Installation<a name="installation"></a>
-Install using npm install
+Install this way....
 
 ## Technologies<a name="technologies"></a>
 Node.JS
 
 ## Usage<a name="usage"></a>
-Use this way
+Use this app this way....
 
 ## License
 ![License Badge](https://img.shields.io/badge/license-MIT%20License-brightgreen)
 This project is licensed under the MIT License license.
 
 ## Contributions<a name="contributions"></a>
-Starter code provided 
+Starter code provided etc...
 
  ## Tests<a name="tests"></a>
-Users can run npm test 
+Testing on remote device
 
 ## Screenshot<a name="screenshot"></a>
 

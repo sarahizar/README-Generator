@@ -32,20 +32,23 @@ This project is licensed under the MIT License.
 -Node.js
 -VS Code
 
-## Tests
-To run tests with this code, use the following command:
+## Tests    
 npm test 
 
 ## Contributions
 Starter code pulled from The Coding Boot Camp 
 
 ## Screen Recording
+A QR Code to watch the tutorial video:
+![My Image](qr-code(1).png)
 
+Or you can use the following embed code:
+<iframe src="https://drive.google.com/file/d/1i5qDbu7sEywc0G2zRSEThtCU-Gos8U2v/preview" width="640" height="480"></iframe>
 
 ## Questions 
 If you have any questions, please feel free to reach out:
-Github:
-Email:
+- GitHub: [sarahizar](https://github.com/sarahizar)
+- Email: sara.hizar@outlook.com
 
 ## Link
 https://github.com/sarahizar/README-Generator.git
